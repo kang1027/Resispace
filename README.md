@@ -2,7 +2,7 @@
 We made of this project in SMU(SangMyung University).
 
 # How to play Resispace?
-[How to Manipulate]<br>
+<h2>[How to Manipulate]</h2><br>
 Move : [W, A, S, D] <br>
 Attack : Spacebar<br>
 Skill : Q<br>
