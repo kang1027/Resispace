@@ -2,12 +2,11 @@
 We made of this project in SMU(SangMyung University).
 
 # How to play Resispace?
-<h2>[How to Manipulate]</h2><br>
 Move : [W, A, S, D] <br>
 Attack : Spacebar<br>
 Skill : Q<br>
 
-#Developers
+# Developers
 SMU 202310813 강동현<br>
 SMU 202310814 강동현<br>
 SMU 202310815 강민우<br>
